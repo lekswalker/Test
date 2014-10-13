@@ -1,0 +1,10 @@
+{
+    "name": "underscoreTest",
+    "version": "1.7.0",
+    "repository":"/",
+    "description":"underscore",
+    "dependencies":{
+        "underscore":"*",
+        "async":"*"
+    }
+}
